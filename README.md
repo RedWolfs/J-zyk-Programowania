@@ -1,4 +1,4 @@
-J-zyk-Programowania
+Jezyk-Programowania
 ===================
 
 Ćwiczenia i wykłady
